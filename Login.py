@@ -1,3 +1,3 @@
 from instapy import InstaPy
 
-InstaPy(username="<feliperamirezquintero>", password="<123456789L>").login()
+InstaPy(username="torombolo546", password="monotiti1").login()
